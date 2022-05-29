@@ -49,11 +49,13 @@
   padding: 0px;
 }
 
-.list-item, .topic {
+.list-item, 
+.topic {
   list-style: none;
 }
 
-.input,.button{
+.input,
+.button {
   outline: none;
 }
 
@@ -135,7 +137,7 @@
   width: 226px;
 }
 
-.list-item >    .task-input {
+.list-item > .task-input {
   width: 226px;
 }
 
