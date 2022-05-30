@@ -74,8 +74,7 @@
 }
 
 /* Heading */
-.topic,
-.new-task-label {
+.topic {
   color: #333;
   font-weight: 700;
   font-size: 15px;
